@@ -1,6 +1,6 @@
-# MangoCraft
+# TypeCraft
 
-一个为 [Typecho](https://typecho.org/) 制作的 Minecraft 灵感像素风博客主题。以草地方块、立体按钮和复古游戏界面为视觉语言，兼顾中文阅读与移动端布局。
+TypeCraft 是一个为 [Typecho](https://typecho.org/) 制作的 Minecraft 灵感像素风博客主题。以草地方块、立体按钮和复古游戏界面为视觉语言，兼顾中文阅读与移动端布局。
 
 > 非 Mojang / Microsoft 官方产品；与 Minecraft 官方无关联。主题视觉由 CSS 实现。
 
@@ -21,9 +21,9 @@
 
 ## 安装
 
-1. 下载本仓库，解压后将主题文件夹命名为 `MangoCraft`。
-2. 上传至 Typecho 网站的 `usr/themes/MangoCraft/`。
-3. 在 Typecho 后台 **控制台 → 外观** 中启用 MangoCraft。
+1. 下载本仓库，解压后将主题文件夹命名为 `TypeCraft`。
+2. 上传至 Typecho 网站的 `usr/themes/TypeCraft/`。
+3. 在 Typecho 后台 **控制台 → 外观** 中启用 TypeCraft。
 4. 建议启用 HTTPS，并检查固定链接、评论和搜索功能。
 
 **要求：** Typecho 1.2.x；PHP 版本以所使用的 Typecho 版本支持范围为准。开发环境为 Typecho 1.2.1 / PHP 8.5，其他版本尚未系统测试。
