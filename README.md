@@ -14,7 +14,15 @@ TypeCraft 是一个为 [Typecho](https://typecho.org/) 制作的 Minecraft 灵�
 
 ## 预览
 
-示例截图：
+以下截图展示主题的实际界面：
+
+| 文章详情 | 登录弹窗 |
+| --- | --- |
+| ![文章详情页](screenshots/01.png) | ![登录弹窗](screenshots/02.png) |
+
+| 登录后导航 | 文章列表与分页 |
+| --- | --- |
+| ![登录后管理入口](screenshots/03.png) | ![文章列表与分页](screenshots/04.png) |
 
 
 
@@ -46,4 +54,4 @@ TypeCraft 是一个为 [Typecho](https://typecho.org/) 制作的 Minecraft 灵�
 
 ## 许可证
 
-本项目采用 [MIT License](LICENSE) 开源。你可以使用、修改、分发本主题（包括商业用途），但须保留原始版权声明及许可证文本。第三方资源不因本项目采用 MIT 而自动获得授权。
+本项目采用 [MIT License](LICENSE) 开源。你可以使用、修改、分发本主题（包括商业用途），但须保留原始版权声明及许可证文本。
