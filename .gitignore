@@ -1,0 +1,22 @@
+# Editor and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+# Temporary and local files
+*.log
+*.tmp
+*.bak
+*.zip
+.env
+.env.*
+!.env.example
+# Third-party Handsome assets (not licensed for redistribution)
+/assets/js/origin/OwO.min.js
+/assets/css/origin/owo.min.css
+/usr/OwO.json
+# Local credentials
+*.key
+*.pem

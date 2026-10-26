@@ -1,0 +1,1 @@
+<?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; $this->need('header.php'); ?><section class="post-card single"><h1>404 · 迷路的冒险家</h1><p>这里还没有生成方块，返回出生点继续探索吧。</p><a class="pixel-btn" href="<?php $this->options->siteUrl(); ?>">返回首页</a></section><?php $this->need('footer.php'); ?>
